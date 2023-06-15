@@ -80,10 +80,14 @@ footer:
     #   username: "@YourTwitterUsername"
     # - name: Facebook
     #   link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/sun-kyung-lee-61abaa185/
+    - name: Scholar
+      link: https://scholar.google.com/citations?user=lSm9xxcAAAAJ&hl=ko&oi=sra
     - name: GitHub
       link: https://github.com/sklee2014
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/sun-kyung-lee-61abaa185/
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
     # - name: Dribbble
     #   link: https://dribbble.com/YourDribbbleUsername
     # - name: Weibo
