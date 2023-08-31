@@ -30,9 +30,9 @@ slug:
 <br>**Sun-Kyung Lee** and Jong-Hwan Kim
 <br>IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP), 2023**
 
-1. *Video Multimodal Emotion Recognition System for Real World Applications* [TBU]
+1. [*Video Multimodal Emotion Recognition System for Real World Applications*](https://www.isca-speech.org/archive/interspeech_2023/lee23l_interspeech.html)
 <br>**Sun-Kyung Lee** and Jong-Hwan Kim
-<br>**Interspeech, 2023**
+<br>**INTERSPEECH, 2023**
 
 ## Domestic Patents
 1. *Perfume Manufacturing System*, Application No. 10-2018-0020591
