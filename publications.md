@@ -34,6 +34,10 @@ slug:
 <br>**Sun-Kyung Lee** and Jong-Hwan Kim
 <br>**INTERSPEECH, 2023**
 
+1. [*Event-Specific EEG-FNIRS Feature Fusion for Alzheimer’s Disease Classification*](https://ieeexplore.ieee.org/abstract/document/10647918)
+<br>Sung-Hyeon Kim, Tae-Min Choi, **Sun-Kyung Lee**, Minhee Kim, Jae Gawn Kim, and Jong-Hwan Kim
+<br>IEEE International Conference on Image Processing **(ICIP), 2024**
+
 ## Domestic Patents
 1. *Perfume Manufacturing System*, Application No. 10-2018-0020591
 
